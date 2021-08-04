@@ -1,0 +1,34 @@
+h1{
+    text-align: center;
+    color: peru;
+}
+h2{
+    color: chocolate;
+}
+h3{
+    color: indianred;
+}
+*{
+    background-color:bisque;
+}
+hr{
+    height: 4px;
+    background-color:burlywood;
+    border: none;
+}
+.abc img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.abc{
+    display: flex;
+    flex-wrap: wrap;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.ab{
+    font-family:sans-serif;
+    justify-content: space-between;
+    font-size: 20px;
+    font-weight: 400;
+    color: white;
+}
